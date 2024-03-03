@@ -1,4 +1,5 @@
 {
+  "name": "expo-google-wallet",
   "platforms": ["android"],
   "android": {
     "modules": ["expo.modules.googlewallet.ExpoGoogleWalletModule"]
