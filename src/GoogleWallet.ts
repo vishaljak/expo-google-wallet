@@ -1,7 +1,7 @@
 import ExpoGoogleWallet from "./ExpoGoogleWallet";
 
-export function isGoogleWalletAvailable(): Promise<boolean> {
-  return ExpoGoogleWallet.isGoogleWalletAvailable();
+export function isWalletAvailable(): Promise<boolean> {
+  return ExpoGoogleWallet.isWalletAvailable();
 }
 
 export function addWalletPass(json: string): Promise<number> {
