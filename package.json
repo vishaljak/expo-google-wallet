@@ -1,6 +1,6 @@
 {
   "name": "expo-google-wallet",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Integrate google wallet into your android app",
   "main": "build/GoogleWallet.js",
   "scripts": {
